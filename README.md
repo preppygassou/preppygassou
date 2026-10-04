@@ -111,7 +111,7 @@ My engineering approach focuses on:
 
 I'm always interested in discussing **Software Engineering, Artificial Intelligence, Data, SaaS and technology-driven products**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge\&logo=linkedin)]([SEU_LINKEDIN](https://www.linkedin.com/in/preppygassou)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/preppygassou)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)](https://github.com/preppygassou)
 
 ---
